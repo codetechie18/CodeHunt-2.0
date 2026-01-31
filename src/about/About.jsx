@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import './Section2.css';
+import './About.css';
 
 const Section2 = () => {
   return (
