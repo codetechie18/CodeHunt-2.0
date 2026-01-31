@@ -1,7 +1,7 @@
 import  { useState, useRef } from 'react';
 import { motion } from 'framer-motion';
 import './Hero.css';
-// import Navbar from './Navbar';
+import Navbar from '../components/Navbar';
 // import Cloud from './Cloud'; 
 
 const Hero = () => {
@@ -44,7 +44,7 @@ const handleMouseMove = (e) => {
 />
 
 
-      {/* <Navbar /> */}
+      <Navbar />
       <motion.div
         className="hero-content"
         initial="hidden"
