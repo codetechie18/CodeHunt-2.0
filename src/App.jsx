@@ -1,8 +1,8 @@
 '/vite.svg'
 import './App.css'
-import Hero from './components/Hero'
+import Hero from './home/Hero'
 import Section1 from './components/Section1'
-import Section2 from './components/Section2'
+import Section2 from './about/Section2'
 
 function App() {
 
