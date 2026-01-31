@@ -9,7 +9,7 @@ const Section1 = () => {
     angle: 0,
   });
 
-  const beamOrigin = { x: 670, y: -100 };
+  const beamOrigin = { x: 900, y: -100 };
 
   const handleMouseMove = (e) => {
     const rect = sectionRef.current.getBoundingClientRect();
