@@ -1,6 +1,6 @@
 # 🏴‍☠️ CodeHunt Hackathon
 
-**CodeHunt** is an innovation-driven hackathon designed to challenge developers, designers, and problem-solvers to hunt down real-world problems and build impactful tech solutions within a limited time.
+**CodeHunt** is an innovation driven hackathon designed to challenge developers, designers, and problem-solvers to hunt down real-world problems and build impactful tech solutions within a limited time.
 
 Whether you're a beginner or an experienced hacker, CodeHunt is your battlefield to learn, build, and compete.
 
@@ -12,7 +12,6 @@ CodeHunt is more than just coding — it’s about **thinking**, **collaborating
 Participants will work in teams to ideate, design, and develop solutions that address real-life challenges using technology.
 
 ---
-
 ## 🧠 Themes
 
 Participants can choose any one of the following themes (or an open innovation idea):
@@ -119,4 +118,4 @@ For any queries or support:
 Built by developers, for developers.  
 Let the hunt begin. 🏴‍☠️⚔️
 
-**#CodeHunt #Hackathon #BuildToWin**
+**CodeHunt ready for sail **
